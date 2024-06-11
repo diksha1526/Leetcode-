@@ -12,7 +12,7 @@ public:
             }
             k--;
         }
-        return ans[n-1];
+        return ans[n-1]%1000000007;
         
     }
 };
