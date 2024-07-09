@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/diksha1526/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/diksha1526/Leetcode-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/diksha1526/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
