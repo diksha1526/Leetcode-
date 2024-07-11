@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/diksha1526/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/diksha1526/Leetcode-/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/diksha1526/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/diksha1526/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/diksha1526/Leetcode-/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/diksha1526/Leetcode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
