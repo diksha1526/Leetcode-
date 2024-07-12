@@ -81,4 +81,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/diksha1526/Leetcode-/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/diksha1526/Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/diksha1526/Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Depth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/diksha1526/Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/diksha1526/Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/diksha1526/Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
