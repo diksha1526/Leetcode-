@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/diksha1526/Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/diksha1526/Leetcode-/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
