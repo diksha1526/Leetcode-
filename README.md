@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/diksha1526/Leetcode-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/diksha1526/Leetcode-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/diksha1526/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
+| [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/diksha1526/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/diksha1526/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
