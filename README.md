@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/diksha1526/Leetcode-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/diksha1526/Leetcode-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/diksha1526/Leetcode-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/diksha1526/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/diksha1526/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
