@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha1526/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/diksha1526/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1333-sort-the-jumbled-numbers](https://github.com/diksha1526/Leetcode-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/diksha1526/Leetcode-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/diksha1526/Leetcode-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/diksha1526/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/diksha1526/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [1333-sort-the-jumbled-numbers](https://github.com/diksha1526/Leetcode-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 ## Linked List
