@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/diksha1526/Leetcode-/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/diksha1526/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/diksha1526/Leetcode-/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
 |  |
 | ------- |
