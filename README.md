@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/diksha1526/Leetcode-/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/diksha1526/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2391-strong-password-checker-ii](https://github.com/diksha1526/Leetcode-/tree/master/2391-strong-password-checker-ii) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/diksha1526/Leetcode-/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
