@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/diksha1526/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/diksha1526/Leetcode-/tree/master/2727-number-of-senior-citizens) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/diksha1526/Leetcode-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diksha1526/Leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/diksha1526/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/diksha1526/Leetcode-/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/diksha1526/Leetcode-/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/diksha1526/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/diksha1526/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2391-strong-password-checker-ii](https://github.com/diksha1526/Leetcode-/tree/master/2391-strong-password-checker-ii) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/diksha1526/Leetcode-/tree/master/2727-number-of-senior-citizens) |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/diksha1526/Leetcode-/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/diksha1526/Leetcode-/tree/master/0584-find-customer-referee) |
 | [0627-swap-salary](https://github.com/diksha1526/Leetcode-/tree/master/0627-swap-salary) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/diksha1526/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
