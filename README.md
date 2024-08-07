@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/diksha1526/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/diksha1526/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha1526/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/diksha1526/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/diksha1526/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diksha1526/Leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/diksha1526/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/diksha1526/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha1526/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/diksha1526/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/diksha1526/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## String
 |  |
