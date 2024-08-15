@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/diksha1526/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0283-move-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/diksha1526/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0890-lemonade-change](https://github.com/diksha1526/Leetcode-/tree/master/0890-lemonade-change) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diksha1526/Leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1333-sort-the-jumbled-numbers](https://github.com/diksha1526/Leetcode-/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/diksha1526/Leetcode-/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/diksha1526/Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/diksha1526/Leetcode-/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
