@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/diksha1526/Leetcode-/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/diksha1526/Leetcode-/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/diksha1526/Leetcode-/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/diksha1526/Leetcode-/tree/master/0650-2-keys-keyboard) |
 | [1642-water-bottles](https://github.com/diksha1526/Leetcode-/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0264-ugly-number-ii](https://github.com/diksha1526/Leetcode-/tree/master/0264-ugly-number-ii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diksha1526/Leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/diksha1526/Leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/diksha1526/Leetcode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha1526/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/diksha1526/Leetcode-/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/diksha1526/Leetcode-/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/diksha1526/Leetcode-/tree/master/0650-2-keys-keyboard) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/diksha1526/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## String
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/diksha1526/Leetcode-/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/diksha1526/Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
