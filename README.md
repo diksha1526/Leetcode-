@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/diksha1526/Leetcode-/tree/master/2727-number-of-senior-citizens) |
 | [3412-permutation-difference-between-two-strings](https://github.com/diksha1526/Leetcode-/tree/master/3412-permutation-difference-between-two-strings) |
+| [3468-find-the-encrypted-string](https://github.com/diksha1526/Leetcode-/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
