@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/diksha1526/Leetcode-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/diksha1526/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/diksha1526/Leetcode-/tree/master/2727-number-of-senior-citizens) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/diksha1526/Leetcode-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/diksha1526/Leetcode-/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/diksha1526/Leetcode-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/diksha1526/Leetcode-/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/diksha1526/Leetcode-/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/diksha1526/Leetcode-/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
