@@ -5,9 +5,9 @@ public:
         for(auto i:target){
             mp[i]+=1;
         }
-        for(auto i:arr){
-            mp1[i]+=1;
-        }
+        // for(auto i:arr){
+        //     mp1[i]+=1;
+        // }
         for(auto i:arr){
             if(mp.find(i)==mp.end()||mp[i]==0){
                 return false;
