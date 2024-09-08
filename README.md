@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/diksha1526/Leetcode-/tree/master/2727-number-of-senior-citizens) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/diksha1526/Leetcode-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3533-snake-in-matrix](https://github.com/diksha1526/Leetcode-/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/diksha1526/Leetcode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/diksha1526/Leetcode-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/diksha1526/Leetcode-/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3533-snake-in-matrix](https://github.com/diksha1526/Leetcode-/tree/master/3533-snake-in-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/diksha1526/Leetcode-/tree/master/2727-number-of-senior-citizens) |
 | [3412-permutation-difference-between-two-strings](https://github.com/diksha1526/Leetcode-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3468-find-the-encrypted-string](https://github.com/diksha1526/Leetcode-/tree/master/3468-find-the-encrypted-string) |
+| [3533-snake-in-matrix](https://github.com/diksha1526/Leetcode-/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
