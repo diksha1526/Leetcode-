@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/diksha1526/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/diksha1526/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/diksha1526/Leetcode-/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/diksha1526/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/diksha1526/Leetcode-/tree/master/0890-lemonade-change) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diksha1526/Leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/diksha1526/Leetcode-/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/diksha1526/Leetcode-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/diksha1526/Leetcode-/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/diksha1526/Leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/diksha1526/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/diksha1526/Leetcode-/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/diksha1526/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Two Pointers
