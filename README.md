@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/diksha1526/Leetcode-/tree/master/0264-ugly-number-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/diksha1526/Leetcode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diksha1526/Leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/diksha1526/Leetcode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/diksha1526/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/diksha1526/Leetcode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diksha1526/Leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1651-shuffle-string](https://github.com/diksha1526/Leetcode-/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/diksha1526/Leetcode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diksha1526/Leetcode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/diksha1526/Leetcode-/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Design
