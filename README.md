@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/diksha1526/Leetcode-/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/diksha1526/Leetcode-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/diksha1526/Leetcode-/tree/master/0264-ugly-number-ii) |
+| [0292-nim-game](https://github.com/diksha1526/Leetcode-/tree/master/0292-nim-game) |
 | [0650-2-keys-keyboard](https://github.com/diksha1526/Leetcode-/tree/master/0650-2-keys-keyboard) |
 | [1642-water-bottles](https://github.com/diksha1526/Leetcode-/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/diksha1526/Leetcode-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -244,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/diksha1526/Leetcode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/diksha1526/Leetcode-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/diksha1526/Leetcode-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
