@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/diksha1526/Leetcode-/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/diksha1526/Leetcode-/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/diksha1526/Leetcode-/tree/master/0682-baseball-game) |
+| [0729-my-calendar-i](https://github.com/diksha1526/Leetcode-/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/diksha1526/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/diksha1526/Leetcode-/tree/master/0890-lemonade-change) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diksha1526/Leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/diksha1526/Leetcode-/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/diksha1526/Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/diksha1526/Leetcode-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/diksha1526/Leetcode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/diksha1526/Leetcode-/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/diksha1526/Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -253,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/diksha1526/Leetcode-/tree/master/0292-nim-game) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/diksha1526/Leetcode-/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/diksha1526/Leetcode-/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
