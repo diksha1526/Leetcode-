@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/diksha1526/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/diksha1526/Leetcode-/tree/master/0179-largest-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/diksha1526/Leetcode-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/diksha1526/Leetcode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/diksha1526/Leetcode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1651-shuffle-string](https://github.com/diksha1526/Leetcode-/tree/master/1651-shuffle-string) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/diksha1526/Leetcode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/diksha1526/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/diksha1526/Leetcode-/tree/master/0682-baseball-game) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/diksha1526/Leetcode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1720-crawler-log-folder](https://github.com/diksha1526/Leetcode-/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/diksha1526/Leetcode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Two Pointers
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/diksha1526/Leetcode-/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/diksha1526/Leetcode-/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/diksha1526/Leetcode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Number Theory
 |  |
 | ------- |
