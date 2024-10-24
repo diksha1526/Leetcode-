@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/diksha1526/Leetcode-/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/diksha1526/Leetcode-/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/diksha1526/Leetcode-/tree/master/2502-sort-the-people) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/diksha1526/Leetcode-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/diksha1526/Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/diksha1526/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/diksha1526/Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/diksha1526/Leetcode-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/diksha1526/Leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/diksha1526/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/diksha1526/Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/diksha1526/Leetcode-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/diksha1526/Leetcode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/diksha1526/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/diksha1526/Leetcode-/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/diksha1526/Leetcode-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Database
 |  |
 | ------- |
